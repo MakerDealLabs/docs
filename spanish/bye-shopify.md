@@ -14,7 +14,9 @@ Supongamos que llevas un registro de cuantas manzanas tienes:
 ```
 usuario_1  = 4 manzanas
 ```
+
 Y ahora, decides que quieres enviarme 2:
+
 
 ```
 usuario_1 (2 manzanas) ===> usuario_2 
