@@ -1,7 +1,7 @@
 # Maker Deal podría sustituir a Paypal y Shopify
 
 <p align="center">
-<img src="https://i.ibb.co/3TzYNLj/maker-vs-all-min.png" alt="maker-vs-all-min" style="height:300px">
+<img src="https://i.ibb.co/3TzYNLj/maker-vs-all-min.png" alt="MakerDeal">
 </p>
 
 
