@@ -1,5 +1,9 @@
 # How do Maker Deal works?
 
+<p align="center">
+<img src="https://i.ibb.co/SwdtJxz/maker-layers.png" alt="MakerDeal Layers">
+</p>
+
 > Maker Deal is a core of smart contracts _(for now)_ focused on providing a good and safe way for building a decentralized marketplace. The main concepts that you should start to get familiar with are: 
 
 ## Deals 
